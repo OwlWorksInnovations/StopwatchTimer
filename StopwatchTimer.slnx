@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StopwatchTimer/StopwatchTimer.vcxproj" Id="ae4dbac7-4b2a-4d05-b427-4f9e5208b69b" />
+</Solution>
